@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="1.0544998"
-     inkscape:cx="344.71321"
-     inkscape:cy="51.683273"
+     inkscape:cx="344.7132"
+     inkscape:cy="51.683272"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
      inkscape:window-x="2391"
@@ -124,18 +124,18 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:0"
          x="23.534824"
          y="33.690273"
-         id="tspan1-9">0</tspan></text>
+         id="tspan1-9">Baixa</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87778px;fill:#2f2bbc;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:0"
-       x="140.16573"
+       x="134.07893"
        y="33.690273"
        id="text2-9-7"
        inkscape:label="text2"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:0"
-         x="140.16573"
+         x="134.07893"
          y="33.690273"
-         id="tspan4">10</tspan></text>
+         id="tspan4">Alta</tspan></text>
   </g>
 </svg>
